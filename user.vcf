@@ -1,16 +1,15 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Antar;Rafique;;;
+N:Rafique;Antar;;;
 FN: Antar Rafique
 ORG:Allied Global Advisory;
-TITLE:Financial Consultant \ Planning & Advisory Division
-EMAIL;type=INTERNET;type=WORK;type=pref:info@aaglobaladvisory.com
-TEL;type=PREF;type=VOICE:+966 50 645 2908
-TEL;type=WORK;type=VOICE:+61 406 982 693
-item1.ADR;type=WORK;type=pref:;; طريق الملك فهد، العليا, 09-01;;Jeddah;138577;Saudi Arabia
+TITLE:Financial Consultant
+EMAIL;type=pref:info@aaglobaladvisory.com
+TEL;type=PREF:+966 50 645 2908
+TEL;type=WORK:+61 406 982 693
+item1.ADR;type=Work Address;type=pref:;Jeddah; طريق الملك فهد، العليا, ;;;138577;Kingdom Of Saudi Arabia
 item1.X-ABADR:sg
-item2.URL;type=pref:aaglobaladvisory.com
-item2.X-ABLabel:_$!<HomePage>!$_
-item3.URL;type=prefhttps://www.linkedin.com/in/antar-rafique-2642b16/
+item2.URL;type=Homepage:www.aaglobaladvisory.com
+item3.URL;type=Linkedin Profile:www.linkedin.com/in/antar-rafique-2642b16/
 END:VCARD
