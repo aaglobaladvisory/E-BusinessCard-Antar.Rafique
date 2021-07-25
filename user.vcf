@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Antar;Rafique;;;
+FN: Antar Rafique
+ORG:Allied Global Advisory;
+TITLE:Financial Consultant \ Planning & Advisory Division
+EMAIL;type=INTERNET;type=WORK;type=pref:info@aaglobaladvisory.com
+TEL;type=WORK;type=VOICE:+966 50 645 2908
+item1.ADR;type=WORK;type=pref:;; طريق الملك فهد، العليا, 09-01;;Jeddah;138577;Saudi Arabia
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:aaglobaladvisory.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
