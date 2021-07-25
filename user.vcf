@@ -6,9 +6,11 @@ FN: Antar Rafique
 ORG:Allied Global Advisory;
 TITLE:Financial Consultant \ Planning & Advisory Division
 EMAIL;type=INTERNET;type=WORK;type=pref:info@aaglobaladvisory.com
-TEL;type=WORK;type=VOICE:+966 50 645 2908
+TEL;type=PREF;type=VOICE:+966 50 645 2908
+TEL;type=WORK;type=VOICE:+61 406 982 693
 item1.ADR;type=WORK;type=pref:;; طريق الملك فهد، العليا, 09-01;;Jeddah;138577;Saudi Arabia
 item1.X-ABADR:sg
 item2.URL;type=pref:aaglobaladvisory.com
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL;type=prefhttps://www.linkedin.com/in/antar-rafique-2642b16/
 END:VCARD
